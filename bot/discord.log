@@ -1,2 +1,0 @@
-[2026-02-27 14:03:18] [INFO    ] discord.client: logging in using static token
-[2026-02-27 14:03:18] [DEBUG   ] discord.http: GET https://discord.com/api/v10/users/@me with None has returned 401
