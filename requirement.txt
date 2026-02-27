@@ -1,3 +1,0 @@
-discord.py
-python-doten
-discord~=2.3.2
